@@ -10,7 +10,7 @@ Primary information: Aim of this project is to create a front end model for a we
 
 <h1>Plugins</h1>
 
-The only plug in which used here is Bootstrap, Bootstrap's library is used for the purpose of styling.
+The only plugin which used here is Bootstrap, Bootstrap's library is used for the purpose of styling.
 
 <h1>How to use</h1>
 
@@ -25,4 +25,6 @@ To use this webApp a user has to just provide three inputs.
 
 A user can provide more than one entry for both second and third input, while doing so one must make sure that for each description entry(second input) their has to be a corresponding amount entry(third input). That is number of entries in 2nd input must be equal to number of entries in third input.
 
-Syntax for multiple entries: In order to process more than one entry, each entry in 2nd input must be separated with a '-' sign(dash or minus sign) and same process must be followed for third input. For example if a user wants to enter $100 for books, $20 for coffee, $300 for cinema, the 2nd input for description should be: books-coffee-cinema and third input for amount should be 100-20-300. 
+<h1>Syntax for multiple entries</h1>
+
+In order to process more than one entry, each entry in 2nd input must be separated with a '-' sign(dash or minus sign) and same process must be followed for third input. For example if a user wants to enter $100 for books, $20 for coffee, $300 for cinema, the 2nd input for description should be: books-coffee-cinema and third input for amount should be 100-20-300. 
